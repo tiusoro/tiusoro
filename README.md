@@ -8,6 +8,7 @@ I help businesses take payments reliably and run their systems in the cloud. I h
 - **Stripe Certified Associate Architect** (Nov 2026) · [verify](https://www.credential.net/faaa26d1-e8dc-46f4-94a0-89a928371731)
 - **AWS Certified DevOps Engineer – Professional** · AWS Developer – Associate · AWS Cloud Practitioner
 - Cisco CCNA · Google Technical Support Fundamentals
+- **Google AI Professional** · **Microsoft AI Fluency**
 
 ### What I work with
 `Stripe (Payments, Billing, Radar, Disputes, Sigma, webhooks)` `AWS` `Terraform` `Docker` `GitHub Actions` `Jenkins` `Linux` `Bash` `Python` `SQL / PostgreSQL` `REST APIs`
