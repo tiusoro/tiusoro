@@ -13,6 +13,7 @@ I help businesses take payments reliably and run their systems in the cloud. I h
 `Stripe (Payments, Billing, Radar, Disputes, Sigma, webhooks)` `AWS` `Terraform` `Docker` `GitHub Actions` `Jenkins` `Linux` `Bash` `Python` `SQL / PostgreSQL` `REST APIs`
 
 ### Featured work
+- **[stripe-payments-demo](https://github.com/tiusoro/stripe-payments-demo)**: a tested Stripe integration in Python/FastAPI: Checkout, subscriptions with a free trial, signature-verified webhooks, duplicate-safe processing, idempotency and refunds.
 - **[Stripe Made Simple](https://www.youtube.com/watch?v=72GP6kTIdNk&list=PLIsQU56WFbYs)**: a 13-episode series where I reproduce real merchant problems in a Stripe sandbox (declines, 3D Secure, refunds, disputes, subscriptions, Radar, Sigma) and explain the fix in plain language.
 - **Blue/green deployments** with Docker Compose, Nginx and Slack alerts: [stage 2](https://github.com/tiusoro/hng13-stage2-devops) · [stage 2a](https://github.com/tiusoro/hng13-stage2a-devops) · [stage 3](https://github.com/tiusoro/hng13-stage3-devops)
 - **Deployment automation in Bash**: [hng13-stage1-devops](https://github.com/tiusoro/hng13-stage1-devops) · [git-repo-docker-validation-app](https://github.com/tiusoro/git-repo-docker-validation-app)
