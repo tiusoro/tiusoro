@@ -26,7 +26,7 @@ I help businesses take payments reliably and run their systems in the cloud. I h
 - Founded and built **Imikan AI**, a multi-tenant SaaS on AWS with Stripe Billing (2026)
 - Ran the data centre, network and disaster recovery for a regulated pension fund (Eni group), 2014–2025
 - Led a 7-person support team for 400+ systems and 500+ IP phones at Dimension Data
-- Taught AWS and DevOps to 45 students
+- Taught AWS services and DevOps to 145+ students
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/tiusoro) · [Medium](https://medium.com/@tiusoro) · tiusoro@gmail.com
